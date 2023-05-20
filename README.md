@@ -10,7 +10,9 @@ utils文件夹包含data augmentation所需的一些函数和类；
 
 checkpoints包含已完成训练的模型，模型的下载链接：https://pan.baidu.com/s/1nhSonYDtmDpZ1CYOa5ADJw ，提取码：qbkt 
 
-model文件夹提供可选择的网络结构（可更改args.model），本次实验选择的网络结构为Resnet-18。
+model文件夹提供可选择的网络结构（可更改args.model），本次实验选择的网络结构为Resnet-18；
+
+visualization文件夹包含了随即展示CIFAR100图片和可视化三种数据增强操作的代码。
 
 ## 模型的运行指令
 - 运行baseline的命令：
