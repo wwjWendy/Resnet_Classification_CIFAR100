@@ -8,7 +8,7 @@ Data_augmentation_vis.ipynb 为数据集及结果的可视化工作；
 
 utils文件夹包含data augmentation所需的一些函数和类；
 
-checkpoints包含已完成训练的模型，模型的下载链接：
+checkpoints包含已完成训练的模型，模型的下载链接：https://pan.baidu.com/s/1nhSonYDtmDpZ1CYOa5ADJw ，提取码：qbkt 
 
 model文件夹提供可选择的网络结构（可更改args.model），本次实验选择的网络结构为Resnet-18。
 
